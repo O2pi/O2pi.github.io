@@ -31,18 +31,16 @@ h1 {
 .text {
     padding: 30px;
     color: black;
-    display: flex;
+    display: inline-flex;
     flex-wrap: wrap;
+    flex-direction: column;
     justify-content: space-around;
+    align-items: center;
 }
 
-.textboxes {
+.text > div {
     border-radius: 20px;
     background-color: rgb(193, 193, 193);
-    display: inline-flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
     margin: 15px;
 }
 

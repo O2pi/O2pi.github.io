@@ -26,6 +26,7 @@ h1 {
 
 .child {
     background-color: rgb(193, 193, 193);
+    border-radius: 20px;
     color: black;
     display: flex;
     justify-content: center;

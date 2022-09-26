@@ -16,6 +16,7 @@ h1 {
 }
 
 .banner {
+    height: 100px;
     background-color: #333;
     color: #fff;
     padding: 30px;

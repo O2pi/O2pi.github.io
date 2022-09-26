@@ -30,18 +30,19 @@ h1 {
 
 .text {
     padding: 30px;
-    background-color: rgb(193, 193, 193);
     color: black;
-    display: inline-flex;
+    display: flex;
     flex-wrap: wrap;
-    flex-direction: column;
     justify-content: space-around;
-    align-items: center;
 }
 
-.text > div {
+.textboxes {
     border-radius: 20px;
     background-color: rgb(193, 193, 193);
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
     margin: 15px;
 }
 
@@ -49,7 +50,7 @@ h1 {
     background-color: #333;
     color: #fff;
     margin-top: auto;
-    margin-bottom: 0px;
+    margin-bottom: 20px;
     width: 100%;
 }
 

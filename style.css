@@ -30,6 +30,7 @@ h1 {
 
 .text {
     padding: 30px;
+    background-color: rgb(193, 193, 193);
     color: black;
     display: inline-flex;
     flex-wrap: wrap;

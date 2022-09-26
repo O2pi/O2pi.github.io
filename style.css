@@ -1,3 +1,7 @@
+html {
+    height: 100%;
+}
+
 body {
     background-color: rgba(188, 255, 236, 0.999);
     margin: 0;

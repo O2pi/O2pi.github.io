@@ -25,19 +25,22 @@ h1 {
 
 .container {
     margin: 0 auto;
-    flex: 1 0 auto;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
 }
 
-.child {
+.text {
     background-color: rgb(193, 193, 193);
     border-radius: 20px;
     padding: 30px;
     color: black;
     display: flex;
-    justify-content: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.textboxes {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-between;
     align-items: center;
 }
 

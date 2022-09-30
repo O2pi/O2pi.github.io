@@ -50,7 +50,8 @@ h1 {
 
 .photo {
     width: 20%;
-    padding-right: 100px;
+    padding-right: 75px;
+    padding-top: 75px;
     height: auto;
     float: right;
     align-self: baseline;

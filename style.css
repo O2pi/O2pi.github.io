@@ -67,5 +67,6 @@ h1 {
 
 .footer p {
     font-size: 20px;
+    bottom: 0;
     margin-left: 50px;
 }

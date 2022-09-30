@@ -3,6 +3,7 @@ html {
 }
 
 body {
+    width: 80%;
     background-color: #6E8898;
     margin: 0;
     border: 0;
@@ -51,7 +52,9 @@ h1 {
 .photo {
     width: 20%;
     height: auto;
+    float: right;
     align-items: center;
+    position: relative;
 }
 
 .footer {

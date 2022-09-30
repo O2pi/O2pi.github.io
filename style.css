@@ -51,6 +51,7 @@ h1 {
 
 .photo {
     width: 20%;
+    padding-right: 50px;
     height: auto;
     float: right;
     align-items: center;

@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-color: rgba(158, 217, 204, 1);
+    background-color: #6E8898;
     margin: 0;
     border: 0;
     font-family: "Libre Baskerville", sans-serif;
@@ -38,7 +38,7 @@ h1 {
 
 .textboxes {
     border-radius: 20px;
-    background-color: #9F6B99;
+    background-color: #9FB1BC;
     display: inline-flex;
     flex-direction: column;
     justify-content: space-between;
